@@ -7,3 +7,9 @@
     margin-bottom: 10%;
     border-radius: 12px;
 }
+
+body{
+    background-image: url('../media/img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
