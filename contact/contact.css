@@ -20,7 +20,7 @@
 }
   
 .textarea[contenteditable]:empty::before {
-    content: "Placeholder still possible";
+    content: "Leave your message here and I will get back to you soon.";
 }
 
 body{
