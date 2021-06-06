@@ -8,21 +8,6 @@
     border-radius: 12px;
 }
 
-.textarea {
-    display: block;
-    width: 100%;
-    overflow: hidden;
-    resize: both;
-    min-height: 40px;
-    line-height: 20px;
-    margin-top: 15px;
-    background-color: white;
-}
-  
-.textarea[contenteditable]:empty::before {
-    content: "Leave your message here and I will get back to you soon.";
-}
-
 body{
     background-image: url('../media/img/background.jpg');
     background-repeat: no-repeat;
